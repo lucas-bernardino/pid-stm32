@@ -1,8 +1,0 @@
-../Src/main.c:41:5:main	1
-../Src/main.c:94:6:read_distance_sensor	1
-../Src/main.c:106:6:calc_PID	1
-../Src/main.c:127:6:pwm_actuator	1
-../Src/main.c:138:6:aperiodic_task	2
-../Src/main.c:152:6:distance_sensor_init	2
-../Src/main.c:161:6:MX_TIM2_Init	6
-../Src/main.c:204:6:HAL_GPIO_EXTI_Callback	3
