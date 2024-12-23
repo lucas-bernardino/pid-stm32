@@ -1,0 +1,15 @@
+../Src/miros.c:60:6:main_idleThread	8	static
+../Src/miros.c:65:6:OS_error	4	static,ignoring_inline_asm
+../Src/miros.c:69:6:OS_init	16	static
+../Src/miros.c:80:6:OS_wait_next_period	16	static,ignoring_inline_asm
+../Src/miros.c:91:6:OS_finished_aperiodic_task	16	static,ignoring_inline_asm
+../Src/miros.c:115:6:OS_sched	16	static,ignoring_inline_asm
+../Src/miros.c:152:6:OS_run	8	static,ignoring_inline_asm
+../Src/miros.c:164:6:OS_tick	32	static
+../Src/miros.c:200:6:OS_delay	24	static,ignoring_inline_asm
+../Src/miros.c:216:6:semaphore_init	24	static,ignoring_inline_asm
+../Src/miros.c:225:6:sem_up	24	static,ignoring_inline_asm
+../Src/miros.c:259:6:sem_down	24	static,ignoring_inline_asm
+../Src/miros.c:299:6:OSAperiodic_task_start	32	static,ignoring_inline_asm
+../Src/miros.c:349:6:OSPeriodic_task_start	40	static
+../Src/miros.c:443:6:PendSV_Handler	0	static,ignoring_inline_asm
